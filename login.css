@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    width: 300px;
+    margin: auto;
+}
+
+input {
+    margin-top: 5px;
+}
+
+a {
+    display: block;
+    text-align: center;
+}
